@@ -1,0 +1,238 @@
+/* this is a custom css stlyesheet */
+/* trbl */
+
+html,body {
+	height:100%;
+	-webkit-font-smoothing: antialiased;
+}
+
+/* misc */
+
+.margtop1 {
+	margin-top: 8em;
+}
+
+.margbot1 {
+	margin-bottom: 8em;
+}
+
+.margtop2 {
+	margin-top: 20em;
+}
+
+.margbot2 {
+	margin-bottom: 20em;
+}
+
+.margtop3 {
+	margin-top: 4em;
+}
+
+.margbot3 {
+	margin-bottom: 4em;
+}
+
+.margtop4 {
+	margin-top: .7em;
+}
+
+.green {
+	color: #9FC566;
+}
+
+.red {
+	color: #AF373A;
+}
+
+.grey {
+	color: #B0433E;
+}
+
+.hr{
+	border: 0;
+    height: 1px;
+    background: #ffffff;
+}
+
+.hr2{
+	margin-top: 1.6em;
+	border: 0;
+    height: 1px;
+    background: #999999;
+}
+
+.arrow-down {
+	width: 0; 
+	height: 0; 
+	border-left: 35px solid transparent;
+	border-right: 35px solid transparent;
+	
+	border-top: 35px solid #9FC566;
+}
+
+
+
+/* row 1 */
+
+.row#one {
+	background-color: #335c64;
+	color: #ffffff;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.row#one h1 {
+	font-weight: 300;
+	font-size: 6em;
+}
+
+.row#one h1 strong {
+	font-weight: 800;
+}
+
+.row#one p {
+	font-weight: 300;
+	font-size: 1.75em;
+}
+
+
+
+/* row 2 */
+
+.row#two {
+	background-color: #ffffd6;
+	color: #666666;
+}
+
+.row#two p {
+	font-family: 'Vollkorn', serif;
+	font-weight: 400;
+	font-size: 2em;
+}
+
+
+
+/* row 3 */
+
+.row#three {
+	background-color: #AF373A;
+	color: #ffffff;
+}
+
+.row#three h1 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+	font-size: 5em;
+}
+
+.row#three h1 small {
+	color: #ffffff;
+}
+
+.row#three h2 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 2.25em;
+}
+
+.row#three p {
+	font-family: 'Merriweather', serif;
+	font-weight: 300;
+	font-size: 1.25em;
+}
+
+
+
+/* row 4 */
+
+.row#four h1 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-size: 5em;
+}
+
+.row#four h1 strong{
+	font-weight: 900;
+}
+
+.row#four h4 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-size: 2em;
+}
+
+.row#four em {
+	font-family: 'Droid Serif', serif;
+	font-weight: 400;
+	font-size: .7em;
+}
+
+.row#four p {
+	font-family: 'Droid Serif', serif;
+	font-weight: 400;
+	font-size: 1.2em;
+}
+
+
+/* long shadow */
+
+
+.icon {
+text-shadow: rgb(150, 174, 115) 1px 1px,
+    rgb(150, 174, 115) 2px 2px,
+    rgb(150, 174, 115) 3px 3px,
+    rgb(150, 174, 115) 4px 4px,
+    rgb(150, 174, 115) 5px 5px,
+    rgb(150, 174, 115) 6px 6px,
+    rgb(150, 174, 115) 7px 7px,
+    rgb(151, 175, 116) 8px 8px,
+    rgb(152, 177, 117) 9px 9px,
+    rgb(154, 178, 118) 10px 10px,
+    rgb(155, 180, 119) 11px 11px,
+    rgb(157, 182, 120) 12px 12px,
+    rgb(158, 183, 121) 13px 13px,
+    rgb(160, 185, 122) 14px 14px,
+    rgb(161, 187, 123) 15px 15px,
+    rgb(162, 188, 124) 16px 16px,
+    rgb(164, 190, 125) 17px 17px,
+    rgb(165, 192, 126) 18px 18px,
+    rgb(167, 193, 128) 19px 19px,
+    rgb(168, 195, 129) 20px 20px,
+    rgb(170, 197, 130) 21px 21px,
+    rgb(171, 198, 131) 22px 22px,
+    rgb(172, 200, 132) 23px 23px,
+    rgb(174, 202, 133) 24px 24px,
+    rgb(175, 203, 134) 25px 25px,
+    rgb(177, 205, 135) 26px 26px,
+    rgb(178, 207, 136) 27px 27px,
+    rgb(180, 208, 137) 28px 28px,
+    rgb(181, 210, 138) 29px 29px;
+background-color: rgb(183, 212, 140);
+height: 160px;
+width: 160px;
+font-size: 10em;
+line-height: 150px;
+text-align: center;
+font-weight: 800;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
